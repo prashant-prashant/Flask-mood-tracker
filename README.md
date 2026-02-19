@@ -22,6 +22,8 @@ mood/
 │── app.py
 │── requirements.txt
 │── README.md
+
+
 ⚙️ Installation
 1️⃣ Clone Repository
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
